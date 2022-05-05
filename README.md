@@ -2,23 +2,19 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# ruby-morse-decoder
-In this projetc we will create a simple ruby function to decode morse messages.
+# Ruby Enumerable
+In this project we will learn how to use a module inside class. For this we will create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 
 # Requirements for this project
 
-Please find the requirements for this project [here](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/morse_code.md).
+Please find the requirements for this project [here](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/create_your_own_enumerable.md).
 
-# screenshot 
-Final Output
-![Screenshot1](screenshot.png)
 
 ## Installation & Usage
 
 - You need to have `git` and `ruby` installed on your local computer.
 - Clone the repository by running `git clone https://github.com/mukhammadrizooff/Morse-Code.git`
-- Run the command `ruby decoder.rb` to see the result. 
 
 
 ## Technologies
