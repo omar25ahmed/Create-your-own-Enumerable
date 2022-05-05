@@ -10,6 +10,9 @@ In this project we will learn how to use a module inside class. For this we will
 
 Please find the requirements for this project [here](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/create_your_own_enumerable.md).
 
+# screenshot 
+Output
+![Screenshot1](screenshot.png)
 
 ## Installation & Usage
 
